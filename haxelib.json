@@ -1,0 +1,14 @@
+{
+  "name": "ufPostite",
+  "url" : "https://github.com/postite/ufPostite.git",
+  "license": "MIT",
+  "tags": ["cross", "useless"],
+  "description": "This library is useless in the same way on every platform.",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["postite"],
+  "dependencies": {
+   
+  }
+}
